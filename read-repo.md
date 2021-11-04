@@ -8,3 +8,5 @@ Classroom of the elite
 Your lie in April
 
 Your name
+Kaiji
+Kakegurui
