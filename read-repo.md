@@ -1,3 +1,5 @@
 # Hello
 
-this is my first readme.
+Naruto
+bleach
+one piece
