@@ -1,5 +1,3 @@
 # Hello
 
-Desmond here.
-
-Sage of six paths.
+this is my first readme.
