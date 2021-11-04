@@ -1,5 +1,4 @@
 # Hello
 
-Naruto
-bleach
-one piece
+Jujutsu kaisen
+Dr. Stone
