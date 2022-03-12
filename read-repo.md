@@ -1,12 +1,4 @@
 # Hello
 
-Jujutsu kaisen
-Dr. Stone
-Bleach
-One piece
-Classroom of the elite
-Your lie in April
+Getting starteed.
 
-Your name
-Kaiji
-Kakegurui
